@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+}
+.popup {
+    position: fixed;
+    background-color: #311a1a;
+    width: 355px;
+    height: 100px;
+    border-radius: 10px;
+    box-shadow: 6px 6px 9px #382f2f;
+}
+.close-btn{
+background-color: red;
+color: white;
+border-radius: 5px;
+border:none;
+}
+.ok-btn{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border:none;
+}
+p{
+    font-size: 12px;
+}
